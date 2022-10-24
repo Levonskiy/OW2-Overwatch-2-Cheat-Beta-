@@ -20,7 +20,7 @@ Aimbot:
 
 
 ![image](https://user-images.githubusercontent.com/115378351/194731232-7f4ff830-021a-478a-838e-defc7854cef7.png)
-## updated 
+# updated 
  - supports x64 / x86
  - widows 11 support
 
